@@ -1,0 +1,1265 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\css\\organik.css",
+      "PackagePath": "staticwebassets\\assets\\css\\organik.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\backgrounds\\call-4-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\call-4-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\backgrounds\\funfact-bg-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\funfact-bg-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\backgrounds\\page-header-bg-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\page-header-bg-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\backgrounds\\video-bg-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\backgrounds\\video-bg-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\blog-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\blog-1-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\blog-1-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\blog-1-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\blog-1-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-5.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\blog-1-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-1-6.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\blog-author-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-author-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\blog-comment-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-comment-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\blog-comment-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-comment-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\blog-d-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-d-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\lp-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\lp-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\lp-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\lp-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\blog\\lp-1-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\lp-1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\favicons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\favicons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\favicons\\site.webmanifest",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\gallery\\gallery-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\gallery\\gallery-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\gallery\\gallery-1-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\gallery\\gallery-1-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\gallery\\gallery-1-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gallery\\gallery-1-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\loader.png",
+      "PackagePath": "staticwebassets\\assets\\images\\loader.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\main-slider\\main-slider-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-slider\\main-slider-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\main-slider\\main-slider-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-slider\\main-slider-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\main-slider\\main-slider-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-slider\\main-slider-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\main-slider\\main-slider-2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-slider\\main-slider-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\Beans.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Beans.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\Beef.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Beef.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\Bread.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Bread.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\Carrot.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Carrot.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\Cheese.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Cheese.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\Cherry.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Cherry.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\Chicken.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Chicken.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\Onion.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\Onion.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\apple.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\apple.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\cart-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\cart-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\cart-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\cart-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\cart-1-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\cart-1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\paypal-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\paypal-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-1-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-1-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-1-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-1-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-1-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-1-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-1-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-1-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-1-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-1-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-1-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-1-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-2-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-2-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-2-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-2-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-2-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-2-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-2-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-2-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\product-d-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\product-d-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\review-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\review-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\review-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products\\review-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\about-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\about-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\brand-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\brand-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\call-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\call-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\call-2-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\call-2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\call-3-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\call-3-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\feature-bg-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\feature-bg-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\feature-bg-1-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\feature-bg-1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\feature-bg-1-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\feature-bg-1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\flag-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\flag-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\offer-banner-1-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\offer-banner-1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\offer-banner-1-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\offer-banner-1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\testi-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\testi-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\testi-1-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\testi-1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\resources\\testi-1-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resources\\testi-1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\about-leaf-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\about-leaf-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-2-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-2-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-2-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-2-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-2-4.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-2-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-2-5.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-2-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-2-6.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-3-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-3-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-4-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-4-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-4-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-4-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-4-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-4-3.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-4-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-4-4.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-4-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-4-5.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\call-shape-5-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\call-shape-5-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\category-bg-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\category-bg-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\contact-bg-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\contact-bg-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\contact-bg-1-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\contact-bg-1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\footer-bg-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\footer-bg-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\footer-bg-1-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\footer-bg-1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\leaf-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\leaf-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\leaf-2-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\leaf-2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\menu-top-shadow.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\menu-top-shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\new-product-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\new-product-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\offer-banner-leaf-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\offer-banner-leaf-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\offer-banner-leaf-1-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\offer-banner-leaf-1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\slider-1-leaf.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\slider-1-leaf.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\slider-1-line.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\slider-1-line.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\slider-2-line-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\slider-2-line-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\slider-2-line.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\slider-2-line.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\team-shape-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\team-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\team-shape-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\team-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\testimonials-head-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\testimonials-head-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\video-leaf-2-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\video-leaf-2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\video-leaf-2-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\video-leaf-2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\shapes\\video-title-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shapes\\video-title-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\team\\team-1-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\team\\team-1-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-1-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\team\\team-1-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-1-3.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\team\\team-1-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-1-4.png"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\inc\\sendemail.php",
+      "PackagePath": "staticwebassets\\assets\\inc\\sendemail.php"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\js\\organik.js",
+      "PackagePath": "staticwebassets\\assets\\js\\organik.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_animations.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_call-to-action.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_call-to-action.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_client-carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_client-carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_features.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_features.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_funfact.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_funfact.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_gallery.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_google-map.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_google-map.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_mobile-nav.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_mobile-nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_navigation.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_page-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_products.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_products.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_search-popup.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_search-popup.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_slider.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_testimonials.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_testimonials.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\_video.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\_video.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\organik.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\organik.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\utility\\_button.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\utility\\_button.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\utility\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\utility\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\utility\\_heading.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\utility\\_heading.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\utility\\_media-query.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\utility\\_media-query.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\utility\\_social-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\utility\\_social-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\utility\\_spacer.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\utility\\_spacer.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\utility\\cards\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\utility\\cards\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\utility\\cards\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\utility\\cards\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\utility\\cards\\_team.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\utility\\cards\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\utility\\cards\\_video.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\utility\\cards\\_video.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\variables\\_color.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\variables\\_color.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\variables\\_font.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\variables\\_font.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\sass\\variables\\_other.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\variables\\_other.scss"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\bootstrap-select\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap-select\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\bootstrap-select\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap-select\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\countdown\\countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\countdown\\countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\isotope\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\isotope\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\jarallax\\jarallax.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jarallax\\jarallax.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\jarallax\\jarallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jarallax\\jarallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\jarallax\\jarallax.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jarallax\\jarallax.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\jquery-ajaxchimp\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ajaxchimp\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\jquery-appear\\jquery.appear.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-appear\\jquery.appear.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\jquery-circle-progress\\jquery.circle-progress.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-circle-progress\\jquery.circle-progress.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\jquery-magnific-popup\\jquery.magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-magnific-popup\\jquery.magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\jquery-magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\jquery-validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\jquery\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\nouislider\\nouislider.pips.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\nouislider\\nouislider.pips.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\odometer\\odometer.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\odometer\\odometer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\odometer\\odometer.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\odometer\\odometer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\organik-icon\\fonts\\organik-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\organik-icon\\fonts\\organik-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\organik-icon\\fonts\\organik-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\organik-icon\\fonts\\organik-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\organik-icon\\fonts\\organik-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\organik-icon\\fonts\\organik-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\organik-icon\\fonts\\organik-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\organik-icon\\fonts\\organik-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\organik-icon\\organik-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\organik-icon\\organik-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\swiper\\swiper.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\swiper\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\swiper\\swiper.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\swiper\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\tiny-slider\\tiny-slider.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\tiny-slider\\tiny-slider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\tiny-slider\\tiny-slider.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\tiny-slider\\tiny-slider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\wnumb\\wNumb.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\wnumb\\wNumb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\vendors\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\wow\\wow.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineShopping.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineShopping.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineShopping.props",
+      "PackagePath": "build\\OnlineShopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineShopping.props",
+      "PackagePath": "buildMultiTargeting\\OnlineShopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineShopping.props",
+      "PackagePath": "buildTransitive\\OnlineShopping.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
