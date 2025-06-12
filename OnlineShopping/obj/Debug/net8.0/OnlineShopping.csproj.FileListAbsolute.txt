@@ -264,3 +264,4 @@ C:\Users\AYSEL\OneDrive\Masaüstü\OnlineShopping\OnlineShopping\bin\Debug\net8.
 C:\Users\AYSEL\OneDrive\Masaüstü\OnlineShopping\OnlineShopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\AYSEL\OneDrive\Masaüstü\OnlineShopping\OnlineShopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\AYSEL\OneDrive\Masaüstü\OnlineShopping\OnlineShopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\AYSEL\OneDrive\Masaüstü\OnlineShopping\OnlineShopping\obj\Debug\net8.0\OnlineShopping.sourcelink.json
