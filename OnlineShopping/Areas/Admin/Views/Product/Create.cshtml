@@ -1,14 +1,45 @@
-﻿@model Category
+﻿@model CreateProductVM
 <div class="row">
     <div class="col-12 grid-margin stretch-card">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title">Create Category</h4>
-                <form method="post" class="forms-sample">
+                <h4 class="card-title">Create Product</h4>
+                <form method="post" enctype="multipart/form-data" class="forms-sample">
+                    <div class="form-group">
+                        <label asp-for="ProductPhoto">Image</label>
+                        <input asp-for="ProductPhoto" class="form-control" accept="image/*">
+                        <span class="text-danger" asp-validation-for="ProductPhoto"></span>
+                    </div>
                     <div class="form-group">
                         <label asp-for="Name">Name</label>
                         <input asp-for="Name" class="form-control" placeholder="Name">
                         <span class="text-danger" asp-validation-for="Name"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Title">Title</label>
+                        <input asp-for="Title" class="form-control" placeholder="Title">
+                        <span class="text-danger" asp-validation-for="Title"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Subtitle">Subtitle</label>
+                        <input asp-for="Subtitle" class="form-control" placeholder="Subtitle">
+                        <span class="text-danger" asp-validation-for="Subtitle"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Price">Price</label>
+                        <input asp-for="Price" class="form-control" placeholder="Price">
+                        <span class="text-danger" asp-validation-for="Price"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CategoryId">Category</label>
+                        <select asp-for="CategoryId" class="form-control">
+                            <option selected disabled>Choose Category</option>
+                            @foreach (Category category in Model.Categories)
+                            {
+                                <option value="@category.Id">@category.Name</option>
+                            }
+                        </select>
+                        <span class="text-danger" asp-validation-for="CategoryId"></span>
                     </div>
                     <button type="submit" class="btn btn-primary me-2">Submit</button>
                     <button class="btn btn-light">Cancel</button>
@@ -16,3 +47,4 @@
             </div>
         </div>
     </div>
+</div>

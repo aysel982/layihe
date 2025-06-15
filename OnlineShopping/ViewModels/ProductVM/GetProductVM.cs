@@ -1,6 +1,6 @@
 ﻿using OnlineShopping.Models;
 
-namespace OnlineShopping.ViewModels.ProductVM
+namespace OnlineShopping.ViewModels
 {
     public class GetProductVM
     {

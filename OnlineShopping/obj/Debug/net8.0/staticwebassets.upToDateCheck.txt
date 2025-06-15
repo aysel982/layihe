@@ -137,6 +137,10 @@ wwwroot\assets\images\main-slider\main-slider-1-1.jpg
 wwwroot\assets\images\main-slider\main-slider-1-2.jpg
 wwwroot\assets\images\main-slider\main-slider-2-1.jpg
 wwwroot\assets\images\main-slider\main-slider-2-2.jpg
+wwwroot\assets\images\products\13ad71bc-aa1e-45e2-8022-dd1bc101a675Milk.jpeg
+wwwroot\assets\images\products\2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg
+wwwroot\assets\images\products\43e036b0-b0cf-412e-9fdb-44b69d09d47fMilk.jpeg
+wwwroot\assets\images\products\515220b4-1e00-4bd1-a650-f8f681c3b721Milk.jpeg
 wwwroot\assets\images\products\apple.jpeg
 wwwroot\assets\images\products\Beans.jpeg
 wwwroot\assets\images\products\Beef.jpeg

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VZc/4UCRAZqi5YagzrwGZLMwofb55/K8P0MvSvMLa7M=",
+  "Hash": "WZph3WOJt6m6amOYeDBQE4/da5KNAz4tEJ5gu9b3DkI=",
   "Source": "OnlineShopping",
   "BasePath": "_content/OnlineShopping",
   "Mode": "Default",
@@ -2934,6 +2934,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\main-slider\\main-slider-2-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\13ad71bc-aa1e-45e2-8022-dd1bc101a675Milk.jpeg",
+      "SourceId": "OnlineShopping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\",
+      "BasePath": "_content/OnlineShopping",
+      "RelativePath": "assets/images/products/13ad71bc-aa1e-45e2-8022-dd1bc101a675Milk#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5eem21tiq7",
+      "Integrity": "XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\13ad71bc-aa1e-45e2-8022-dd1bc101a675Milk.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg",
+      "SourceId": "OnlineShopping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\",
+      "BasePath": "_content/OnlineShopping",
+      "RelativePath": "assets/images/products/2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5eem21tiq7",
+      "Integrity": "XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\43e036b0-b0cf-412e-9fdb-44b69d09d47fMilk.jpeg",
+      "SourceId": "OnlineShopping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\",
+      "BasePath": "_content/OnlineShopping",
+      "RelativePath": "assets/images/products/43e036b0-b0cf-412e-9fdb-44b69d09d47fMilk#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5eem21tiq7",
+      "Integrity": "XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\43e036b0-b0cf-412e-9fdb-44b69d09d47fMilk.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\515220b4-1e00-4bd1-a650-f8f681c3b721Milk.jpeg",
+      "SourceId": "OnlineShopping",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\",
+      "BasePath": "_content/OnlineShopping",
+      "RelativePath": "assets/images/products/515220b4-1e00-4bd1-a650-f8f681c3b721Milk#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5eem21tiq7",
+      "Integrity": "XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\515220b4-1e00-4bd1-a650-f8f681c3b721Milk.jpeg"
     },
     {
       "Identity": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\apple.jpeg",
@@ -17923,6 +18007,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-80/PEukt+1oD0eXBdO98ceoMEyZHMBejlRu3ChIkbBk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/13ad71bc-aa1e-45e2-8022-dd1bc101a675Milk.5eem21tiq7.jpeg",
+      "AssetFile": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\13ad71bc-aa1e-45e2-8022-dd1bc101a675Milk.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 20:04:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5eem21tiq7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/products/13ad71bc-aa1e-45e2-8022-dd1bc101a675Milk.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/13ad71bc-aa1e-45e2-8022-dd1bc101a675Milk.jpeg",
+      "AssetFile": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\13ad71bc-aa1e-45e2-8022-dd1bc101a675Milk.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 20:04:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.5eem21tiq7.jpeg",
+      "AssetFile": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 20:06:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5eem21tiq7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/products/2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg",
+      "AssetFile": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 20:06:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/43e036b0-b0cf-412e-9fdb-44b69d09d47fMilk.5eem21tiq7.jpeg",
+      "AssetFile": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\43e036b0-b0cf-412e-9fdb-44b69d09d47fMilk.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 20:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5eem21tiq7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/products/43e036b0-b0cf-412e-9fdb-44b69d09d47fMilk.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/43e036b0-b0cf-412e-9fdb-44b69d09d47fMilk.jpeg",
+      "AssetFile": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\43e036b0-b0cf-412e-9fdb-44b69d09d47fMilk.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 20:04:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/515220b4-1e00-4bd1-a650-f8f681c3b721Milk.5eem21tiq7.jpeg",
+      "AssetFile": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\515220b4-1e00-4bd1-a650-f8f681c3b721Milk.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 20:06:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5eem21tiq7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/products/515220b4-1e00-4bd1-a650-f8f681c3b721Milk.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/products/515220b4-1e00-4bd1-a650-f8f681c3b721Milk.jpeg",
+      "AssetFile": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\515220b4-1e00-4bd1-a650-f8f681c3b721Milk.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Jun 2025 20:06:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A="
         }
       ]
     },
