@@ -1,5 +1,9 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using OnlineShopping.DAL;
+using OnlineShopping.Models;
+using OnlineShopping.Services;
+
 
 namespace OnlineShopping
 {
@@ -9,10 +13,22 @@ namespace OnlineShopping
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
+            builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+            {
+                opt.Password.RequireNonAlphanumeric = false;
+                opt.Password.RequiredLength = 8;
+                opt.Lockout.MaxFailedAccessAttempts = 5;
+                opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(10);
+            }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+
             builder.Services.AddDbContext<AppDbContext>(opt => {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));
             });
+
+            builder.Services.AddScoped<ILayoutService, LayoutService>();
             var app = builder.Build();
+            app.UseAuthentication();
+            app.UseAuthorization();
             app.UseStaticFiles();
             app.MapControllerRoute(
                 "default",

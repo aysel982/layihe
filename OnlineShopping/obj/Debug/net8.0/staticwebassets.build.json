@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WZph3WOJt6m6amOYeDBQE4/da5KNAz4tEJ5gu9b3DkI=",
+  "Hash": "0R9dKB/2LIqUdGekwcgnygHMGXDdlpMkORqkEyTq2BQ=",
   "Source": "OnlineShopping",
   "BasePath": "_content/OnlineShopping",
   "Mode": "Default",
@@ -2955,27 +2955,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\products\\13ad71bc-aa1e-45e2-8022-dd1bc101a675Milk.jpeg"
-    },
-    {
-      "Identity": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg",
-      "SourceId": "OnlineShopping",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\",
-      "BasePath": "_content/OnlineShopping",
-      "RelativePath": "assets/images/products/2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "5eem21tiq7",
-      "Integrity": "XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\products\\2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg"
     },
     {
       "Identity": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\43e036b0-b0cf-412e-9fdb-44b69d09d47fMilk.jpeg",
@@ -18079,88 +18058,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Sun, 15 Jun 2025 20:04:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.5eem21tiq7.jpeg",
-      "AssetFile": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4514"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 20:06:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5eem21tiq7"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/images/products/2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A="
-        }
-      ]
-    },
-    {
-      "Route": "assets/images/products/2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg",
-      "AssetFile": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\OnlineShopping\\OnlineShopping\\wwwroot\\assets\\images\\products\\2ef48d5d-2278-47a2-ac5d-9d0d4ab7aa29Milk.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4514"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XSjJAOjsl4lJzftD8K5WKAh2/Y9+FrB/8u3pk7/jO5A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 20:06:03 GMT"
         },
         {
           "Name": "Cache-Control",
