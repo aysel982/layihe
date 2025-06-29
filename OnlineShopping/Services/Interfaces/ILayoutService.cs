@@ -1,7 +1,10 @@
-﻿namespace OnlineShopping.Services
+﻿using OnlineShopping.ViewModels;
+
+namespace OnlineShopping.Services.Interfaces
 {
     public interface ILayoutService
     {
-        public async Task<Dictionary<string, string>> GetSettingsAsync()
+        Task<Dictionary<string, string>> GetSettingsAsync();
+        Task<List<BasketItemVM>> GetBasketAsync();
     }
 }

@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using OnlineShopping.DAL;
+using OnlineShopping.Models;
 using OnlineShopping.ViewModels;
 
 namespace OnlineShopping.Controllers
@@ -13,14 +14,25 @@ namespace OnlineShopping.Controllers
         {
             _context = context;
         }
-        public async Task<IActionResult> IndexAsync()
+        public IActionResult Index()
         {
-            HomeVM vm = new HomeVM
+            return View();
+        }
+        public IActionResult Detail(int? id)
+        {
+            if(id is null|| id <= 0)
             {
-                Products = await _context.Products.ToListAsync(),
-                Categories = await _context.Categories.ToListAsync()
+                return BadRequest();
+            }
+            Product? product = _context.Products.Include(p=>p.Image).FirstOrDefault(p => p.Id == p.Id);
+            if (product is null) return NotFound();
+
+            ProductDetailVM detailVM = new ProductDetailVM
+            {
+                Product = product,
+                RelatedProducts = _context.Products.Where(p => p.CategoryId == product.CategoryId && p.Id != product.Id).ToList()
             };
-            return View(vm);
+            return View(detailVM);
         }
     }
 }

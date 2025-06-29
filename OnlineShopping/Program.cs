@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using OnlineShopping.DAL;
 using OnlineShopping.Models;
 using OnlineShopping.Services;
+using OnlineShopping.Services.Interfaces;
 
 
 namespace OnlineShopping
@@ -12,6 +13,7 @@ namespace OnlineShopping
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddHttpContextAccessor();
             builder.Services.AddControllersWithViews();
             builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
             {
