@@ -1,10 +1,11 @@
 ﻿using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages.Manage;
+using OnlineShopping.Services.Interfaces;
 using System.Net;
 using System.Net.Mail;
 
 namespace OnlineShopping.Services.Implementations
 {
-    public class EmailService
+    public class EmailService:IEmailService
     {
         private readonly IConfiguration _configuration;
 
@@ -25,6 +26,8 @@ namespace OnlineShopping.Services.Implementations
             message.Subject = subject;
             message.Body = body;
             message.IsBodyHtml = isHtml;
+
+            await smtp.SendMailAsync(message);
         }
     }
 }

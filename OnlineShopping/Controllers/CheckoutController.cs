@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using OnlineShopping.DAL;
 using OnlineShopping.Models;
+using OnlineShopping.Services.Interfaces;
 using OnlineShopping.ViewModels;
 using System.Security.Claims;
 
@@ -11,10 +12,12 @@ namespace OnlineShopping.Controllers
     public class CheckoutController : Controller
     {
         private readonly AppDbContext _context;
+        private readonly IEmailService _emailService;
 
-        public CheckoutController(AppDbContext context)
+        public CheckoutController(AppDbContext context,IEmailService emailService)
         {
             _context = context;
+            _emailService = emailService;
         }
         public IActionResult Index()
         {
@@ -77,6 +80,8 @@ namespace OnlineShopping.Controllers
             await _context.Orders.AddAsync(order);
             _context.BasketItems.RemoveRange(basketItems);
             await _context.SaveChangesAsync();
+
+            //await _emailService.SendMailAsync(user.Email, "your order", body, true);
 
             return RedirectToAction("Index", "Home");
         }

@@ -3,16 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\viewmodels\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\viewmodels\\resetpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\viewmodels\\forgotpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\viewmodels\\forgotpasswordvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\services\\implementations\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\services\\implementations\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\account\\succesfullyregisteredemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\account\\succesfullyregisteredemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\viewmodels\\productdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\viewmodels\\productdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\viewmodels\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +107,6 @@
       "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\utilities\\enums\\sorttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\productdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\productdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -47,24 +119,8 @@
       "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\services\\interfaces\\ilayoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\services\\implementations\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\services\\implementations\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\services\\interfaces\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\services\\interfaces\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,24 +167,12 @@
       "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\viewmodels\\basketitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\viewmodels\\productdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\viewmodels\\productdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\viewmodels\\basketcookieitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -147,16 +191,8 @@
       "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\utilities\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\viewmodels\\users\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -235,10 +271,6 @@
       "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|c:\\users\\aysel\\onedrive\\masa\u00FCst\u00FC\\layihe\\onlineshopping\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3B74D8D4-953F-47A2-A200-8AAEABB727AC}|OnlineShopping\\OnlineShopping.csproj|solutionrelative:onlineshopping\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -306,649 +338,230 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SortType.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Enums\\SortType.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Utilities\\Enums\\SortType.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Enums\\SortType.cs",
-              "RelativeToolTip": "OnlineShopping\\Utilities\\Enums\\SortType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T10:45:07.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShopVM.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ShopVM.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\ShopVM.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ShopVM.cs",
-              "RelativeToolTip": "OnlineShopping\\ViewModels\\ShopVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T09:34:47.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IBasketService.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Interfaces\\IBasketService.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Services\\Interfaces\\IBasketService.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Interfaces\\IBasketService.cs",
-              "RelativeToolTip": "OnlineShopping\\Services\\Interfaces\\IBasketService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T07:41:27.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BasketService.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Implementations\\BasketService.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Services\\Implementations\\BasketService.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Implementations\\BasketService.cs",
-              "RelativeToolTip": "OnlineShopping\\Services\\Implementations\\BasketService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T07:31:02.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAewAcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-07T07:25:38.78Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "OnlineShopping\\Controllers\\ShopController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAADcAAAAhAAAAAAAAAA==",
+              "Title": "ResetPasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ResetPasswordVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\ResetPasswordVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ResetPasswordVM.cs*",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\ResetPasswordVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T07:52:17.181Z"
+              "WhenOpened": "2025-06-30T19:44:58.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Shop\\Index.cshtml*",
-              "RelativeToolTip": "OnlineShopping\\Views\\Shop\\Index.cshtml*",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAewF8AAABUAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\ResetPassword.cshtml*",
+              "RelativeToolTip": "OnlineShopping\\Views\\Account\\ResetPassword.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-07T11:02:19.625Z",
+              "WhenOpened": "2025-06-30T19:38:00.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GetProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductVM\\GetProductVM.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\ProductVM\\GetProductVM.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductVM\\GetProductVM.cs",
-              "RelativeToolTip": "OnlineShopping\\ViewModels\\ProductVM\\GetProductVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Title": "ForgotPasswordVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ForgotPasswordVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\ForgotPasswordVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ForgotPasswordVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\ForgotPasswordVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T13:58:58.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Basket\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Basket\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Basket\\Index.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Views\\Basket\\Index.cshtml",
-              "ViewState": "AgIAAEkAAAAAKnoFc28SwF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-07T11:06:20.896Z",
+              "WhenOpened": "2025-06-30T19:12:16.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\GetCategoryVM.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\GetCategoryVM.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\GetCategoryVM.cs",
-              "RelativeToolTip": "OnlineShopping\\ViewModels\\GetCategoryVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T12:02:43.603Z"
+              "DocumentIndex": 4,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T19:11:05.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
+              "Title": "SuccesfullyRegisteredEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\SuccesfullyRegisteredEmail.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Account\\SuccesfullyRegisteredEmail.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\SuccesfullyRegisteredEmail.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Account\\SuccesfullyRegisteredEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T16:56:04.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "OnlineShopping\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAALIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:53:51.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T16:52:59.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CheckoutController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\CheckoutController.cs",
               "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\CheckoutController.cs",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\CheckoutController.cs",
               "RelativeToolTip": "OnlineShopping\\Controllers\\CheckoutController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAACwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAFMAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T20:49:57.055Z"
+              "WhenOpened": "2025-06-29T20:49:57.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\Order.cs",
-              "RelativeToolTip": "OnlineShopping\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T09:31:44.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Checkout\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Checkout\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Checkout\\Index.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Views\\Checkout\\Index.cshtml",
-              "ViewState": "AgIAAFkAAAAANTMzMzMbwEgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-29T11:56:53.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "OrderVM.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\OrderVM.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\OrderVM.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\OrderVM.cs",
-              "RelativeToolTip": "OnlineShopping\\ViewModels\\OrderVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T12:21:21.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BasketInOrderVM.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\BasketInOrderVM.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\BasketInOrderVM.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\BasketInOrderVM.cs",
-              "RelativeToolTip": "OnlineShopping\\ViewModels\\BasketInOrderVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T12:22:53.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "20250629200329_Sql.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250629200329_Sql.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Migrations\\20250629200329_Sql.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250629200329_Sql.cs",
-              "RelativeToolTip": "OnlineShopping\\Migrations\\20250629200329_Sql.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T20:03:29.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\OrderItem.cs",
-              "RelativeToolTip": "OnlineShopping\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T09:27:40.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BasketItem.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\BasketItem.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Models\\BasketItem.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\BasketItem.cs",
-              "RelativeToolTip": "OnlineShopping\\Models\\BasketItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T07:36:09.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BasketItemVM.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\BasketItemVM.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\BasketItemVM.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\BasketItemVM.cs",
-              "RelativeToolTip": "OnlineShopping\\ViewModels\\BasketItemVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T20:48:45.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BasketCookieItemVM.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\BasketCookieItemVM.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\BasketCookieItemVM.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\BasketCookieItemVM.cs",
-              "RelativeToolTip": "OnlineShopping\\ViewModels\\BasketCookieItemVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T19:09:42.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ProductDetailVM.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductDetailVM.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\ProductDetailVM.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductDetailVM.cs",
-              "RelativeToolTip": "OnlineShopping\\ViewModels\\ProductDetailVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T15:05:27.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ILayoutService.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Interfaces\\ILayoutService.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Services\\Interfaces\\ILayoutService.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Interfaces\\ILayoutService.cs",
-              "RelativeToolTip": "OnlineShopping\\Services\\Interfaces\\ILayoutService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T11:24:42.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LayoutService.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Implementations\\LayoutService.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Services\\Implementations\\LayoutService.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Implementations\\LayoutService.cs",
-              "RelativeToolTip": "OnlineShopping\\Services\\Implementations\\LayoutService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T09:08:02.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "20250626085745_settings.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250626085745_settings.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Migrations\\20250626085745_settings.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250626085745_settings.cs",
-              "RelativeToolTip": "OnlineShopping\\Migrations\\20250626085745_settings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T08:57:46.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Setting.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\Setting.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Models\\Setting.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\Setting.cs",
-              "RelativeToolTip": "OnlineShopping\\Models\\Setting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T08:54:21.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Enums\\UserRole.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Utilities\\Enums\\UserRole.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Enums\\UserRole.cs",
-              "RelativeToolTip": "OnlineShopping\\Utilities\\Enums\\UserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:34:25.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "20250622143807_Register.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250622143807_Register.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Migrations\\20250622143807_Register.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250622143807_Register.cs",
-              "RelativeToolTip": "OnlineShopping\\Migrations\\20250622143807_Register.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T14:38:08.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\Users\\LoginVM.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\Users\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\Users\\LoginVM.cs",
-              "RelativeToolTip": "OnlineShopping\\ViewModels\\Users\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T07:49:47.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "OnlineShopping\\Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "OnlineShopping\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T07:48:57.885Z"
+              "WhenOpened": "2025-06-22T07:48:57.885Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\Users\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\Users\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\Users\\RegisterVM.cs",
-              "RelativeToolTip": "OnlineShopping\\ViewModels\\Users\\RegisterVM.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "OnlineShopping\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T20:57:01.799Z"
+              "WhenOpened": "2025-06-08T20:40:09.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-15T20:54:24.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "OnlineShopping\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACcAAAAANDMzMzPzvzMAAABQAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "OnlineShopping\\Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T20:53:51.856Z"
+              "WhenOpened": "2025-06-30T15:36:35.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "20250615204432_Identity.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250615204432_Identity.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Migrations\\20250615204432_Identity.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250615204432_Identity.cs",
-              "RelativeToolTip": "OnlineShopping\\Migrations\\20250615204432_Identity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Implementations\\BasketService.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Services\\Implementations\\BasketService.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Implementations\\BasketService.cs",
+              "RelativeToolTip": "OnlineShopping\\Services\\Implementations\\BasketService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T20:44:33.031Z"
+              "WhenOpened": "2025-06-30T07:31:02.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\AppUser.cs",
-              "RelativeToolTip": "OnlineShopping\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Program.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Program.cs",
+              "RelativeToolTip": "OnlineShopping\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T20:34:13.45Z"
+              "WhenOpened": "2025-06-07T07:19:26.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "UpdateProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductVM\\UpdateProductVM.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\ProductVM\\UpdateProductVM.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductVM\\UpdateProductVM.cs",
-              "RelativeToolTip": "OnlineShopping\\ViewModels\\ProductVM\\UpdateProductVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T07:29:14.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-14T17:45:42.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "CreateProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductVM\\CreateProductVM.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\ProductVM\\CreateProductVM.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductVM\\CreateProductVM.cs",
-              "RelativeToolTip": "OnlineShopping\\ViewModels\\ProductVM\\CreateProductVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T10:43:33.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "20250612152945_Second.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250612152945_Second.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Migrations\\20250612152945_Second.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250612152945_Second.cs",
-              "RelativeToolTip": "OnlineShopping\\Migrations\\20250612152945_Second.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:29:46.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "FileSize.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Enums\\FileSize.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Utilities\\Enums\\FileSize.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Enums\\FileSize.cs",
-              "RelativeToolTip": "OnlineShopping\\Utilities\\Enums\\FileSize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:15:11.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "FileValidator.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Extentions\\FileValidator.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Utilities\\Extentions\\FileValidator.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Extentions\\FileValidator.cs",
-              "RelativeToolTip": "OnlineShopping\\Utilities\\Extentions\\FileValidator.cs",
-              "ViewState": "AgIAAA0AAAAAzczMzMwiwAYAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:11:01.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "ViewState": "AgIAABMAAACAMzMzMzMrwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T14:02:31.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAB0AAACAMzMzMzMbwCsAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T14:02:05.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACYAAADAAAAAAAAgwA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:08:21.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABcAAADAmZmZmZkpwCQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:07:58.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineShopping\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T11:06:55.873Z"
+              "WhenOpened": "2025-06-07T07:24:59.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Implementations\\EmailService.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Services\\Implementations\\EmailService.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Implementations\\EmailService.cs",
+              "RelativeToolTip": "OnlineShopping\\Services\\Implementations\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:15:06.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAewI0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T11:05:12.582Z"
+              "WhenOpened": "2025-06-07T07:25:38.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T11:05:00.483Z"
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineShopping\\appsettings.json",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\appsettings.json",
+              "RelativeToolTip": "OnlineShopping\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T07:24:23.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAABAMzMzMzMwwD8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T11:04:47.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T10:50:48.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T10:49:10.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T10:49:00.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAcBAAAAAAAAAAAwwBEBAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T10:48:47.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "OnlineShopping\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "OnlineShopping\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-09T18:48:33.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 19,
               "Title": "ProductDetailsController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\ProductDetailsController.cs",
               "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\ProductDetailsController.cs",
@@ -960,7 +573,583 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAewF8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T11:02:19.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "OnlineShopping\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T07:52:17.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductDetailVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\ProductDetailVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductDetailVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\ProductDetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:05:27.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAewF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T11:06:20.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductVM\\GetProductVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\ProductVM\\GetProductVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductVM\\GetProductVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\ProductVM\\GetProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:58:58.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IBasketService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Interfaces\\IBasketService.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Services\\Interfaces\\IBasketService.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Interfaces\\IBasketService.cs",
+              "RelativeToolTip": "OnlineShopping\\Services\\Interfaces\\IBasketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:41:27.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShopVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ShopVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\ShopVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ShopVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\ShopVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:34:47.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SortType.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Enums\\SortType.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Utilities\\Enums\\SortType.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Enums\\SortType.cs",
+              "RelativeToolTip": "OnlineShopping\\Utilities\\Enums\\SortType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:45:07.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\GetCategoryVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\GetCategoryVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\GetCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:02:43.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\Order.cs",
+              "RelativeToolTip": "OnlineShopping\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:31:44.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAFkAAAAANTMzMzMbwEgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T11:56:53.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\OrderVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\OrderVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:21:21.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BasketInOrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\BasketInOrderVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\BasketInOrderVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\BasketInOrderVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\BasketInOrderVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:22:53.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20250629200329_Sql.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250629200329_Sql.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Migrations\\20250629200329_Sql.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250629200329_Sql.cs",
+              "RelativeToolTip": "OnlineShopping\\Migrations\\20250629200329_Sql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T20:03:29.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\OrderItem.cs",
+              "RelativeToolTip": "OnlineShopping\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:27:40.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\BasketItem.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Models\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\BasketItem.cs",
+              "RelativeToolTip": "OnlineShopping\\Models\\BasketItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T07:36:09.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BasketItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\BasketItemVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\BasketItemVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\BasketItemVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\BasketItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T20:48:45.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BasketCookieItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\BasketCookieItemVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\BasketCookieItemVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\BasketCookieItemVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\BasketCookieItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T19:09:42.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ILayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Interfaces\\ILayoutService.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Services\\Interfaces\\ILayoutService.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Interfaces\\ILayoutService.cs",
+              "RelativeToolTip": "OnlineShopping\\Services\\Interfaces\\ILayoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:24:42.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Implementations\\LayoutService.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Services\\Implementations\\LayoutService.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Services\\Implementations\\LayoutService.cs",
+              "RelativeToolTip": "OnlineShopping\\Services\\Implementations\\LayoutService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:08:02.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20250626085745_settings.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250626085745_settings.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Migrations\\20250626085745_settings.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250626085745_settings.cs",
+              "RelativeToolTip": "OnlineShopping\\Migrations\\20250626085745_settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:57:46.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\Setting.cs",
+              "RelativeToolTip": "OnlineShopping\\Models\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:54:21.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Utilities\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Enums\\UserRole.cs",
+              "RelativeToolTip": "OnlineShopping\\Utilities\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:34:25.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20250622143807_Register.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250622143807_Register.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Migrations\\20250622143807_Register.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250622143807_Register.cs",
+              "RelativeToolTip": "OnlineShopping\\Migrations\\20250622143807_Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:38:08.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\Users\\LoginVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\Users\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\Users\\LoginVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\Users\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T07:49:47.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\Users\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\Users\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\Users\\RegisterVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\Users\\RegisterVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:57:01.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T20:54:24.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20250615204432_Identity.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250615204432_Identity.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Migrations\\20250615204432_Identity.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250615204432_Identity.cs",
+              "RelativeToolTip": "OnlineShopping\\Migrations\\20250615204432_Identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:44:33.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\AppUser.cs",
+              "RelativeToolTip": "OnlineShopping\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T20:34:13.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductVM\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\ProductVM\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductVM\\UpdateProductVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\ProductVM\\UpdateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T07:29:14.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T17:45:42.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductVM\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\ProductVM\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\ProductVM\\CreateProductVM.cs",
+              "RelativeToolTip": "OnlineShopping\\ViewModels\\ProductVM\\CreateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T10:43:33.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250612152945_Second.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250612152945_Second.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Migrations\\20250612152945_Second.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250612152945_Second.cs",
+              "RelativeToolTip": "OnlineShopping\\Migrations\\20250612152945_Second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:29:46.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "OnlineShopping\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:15:11.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Extentions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Utilities\\Extentions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Utilities\\Extentions\\FileValidator.cs",
+              "RelativeToolTip": "OnlineShopping\\Utilities\\Extentions\\FileValidator.cs",
+              "ViewState": "AgIAAA0AAAAAzczMzMwiwAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:11:01.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAABMAAACAMzMzMzMrwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T14:02:31.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAB0AAACAMzMzMzMbwCsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T14:02:05.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACYAAADAAAAAAAAgwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:08:21.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABcAAADAmZmZmZkpwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:07:58.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T11:06:55.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T11:05:12.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T11:05:00.483Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 62,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAABAMzMzMzMwwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T11:04:47.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T10:50:48.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T10:49:10.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T10:49:00.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopping\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "OnlineShopping\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAwwBEBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T10:48:47.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "OnlineShopping\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "OnlineShopping\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-09T18:48:33.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
               "Title": "NewDetailsController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\NewDetailsController.cs",
               "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\NewDetailsController.cs",
@@ -972,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 33,
               "Title": "NewsController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\NewsController.cs",
               "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\NewsController.cs",
@@ -984,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 69,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\ContactController.cs",
@@ -996,19 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\BasketController.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "OnlineShopping\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T20:40:09.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 76,
               "Title": "20250608165053_Initial.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Migrations\\20250608165053_Initial.cs",
               "RelativeDocumentMoniker": "OnlineShopping\\Migrations\\20250608165053_Initial.cs",
@@ -1020,7 +1197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 42,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "OnlineShopping\\ViewModels\\HomeVM.cs",
@@ -1032,7 +1209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 38,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "OnlineShopping\\Models\\Base\\BaseEntity.cs",
@@ -1044,7 +1221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 44,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Models\\Product.cs",
               "RelativeDocumentMoniker": "OnlineShopping\\Models\\Product.cs",
@@ -1056,7 +1233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\ProductDetails\\Index.cshtml",
               "RelativeDocumentMoniker": "OnlineShopping\\Views\\ProductDetails\\Index.cshtml",
@@ -1068,7 +1245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 74,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\NewDetails\\Index.cshtml",
               "RelativeDocumentMoniker": "OnlineShopping\\Views\\NewDetails\\Index.cshtml",
@@ -1080,7 +1257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 72,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "OnlineShopping\\Views\\Contact\\Index.cshtml",
@@ -1092,7 +1269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 73,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\News\\Index.cshtml",
               "RelativeDocumentMoniker": "OnlineShopping\\Views\\News\\Index.cshtml",
@@ -1104,7 +1281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 71,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "OnlineShopping\\Views\\About\\Index.cshtml",
@@ -1116,19 +1293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\appsettings.json",
-              "RelativeDocumentMoniker": "OnlineShopping\\appsettings.json",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\appsettings.json",
-              "RelativeToolTip": "OnlineShopping\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-07T07:24:23.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 35,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "OnlineShopping\\DAL\\AppDbContext.cs",
@@ -1140,7 +1305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 66,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "OnlineShopping\\Views\\_ViewImports.cshtml",
@@ -1152,7 +1317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 75,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "OnlineShopping\\Views\\_ViewStart.cshtml",
@@ -1164,7 +1329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 64,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "OnlineShopping\\Views\\Home\\Index.cshtml",
@@ -1173,30 +1338,6 @@
               "ViewState": "AgIAAIUAAAAAAAAAAEBVwIkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-07T07:25:16.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "OnlineShopping\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T07:24:59.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Program.cs",
-              "RelativeDocumentMoniker": "OnlineShopping\\Program.cs",
-              "ToolTip": "C:\\Users\\AYSEL\\OneDrive\\Masa\u00FCst\u00FC\\layihe\\OnlineShopping\\Program.cs",
-              "RelativeToolTip": "OnlineShopping\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T07:19:26.693Z"
             }
           ]
         }

@@ -12,14 +12,14 @@ namespace OnlineShopping.Controllers
         private readonly AppDbContext _context;
         private readonly EmailService _emailService;
 
-        public HomeController(AppDbContext context,EmailService emailService)
+        public HomeController(AppDbContext context)
         {
             _context = context;
-            _emailService = emailService;
+           
         }
         public async Task<IActionResult> Index()
         {
-            await _emailService.SendMailAsync();
+            
             HomeVM vm = new HomeVM
             {
                 Products= await _context.Products.Include(p=>p.Category).ToListAsync(),
