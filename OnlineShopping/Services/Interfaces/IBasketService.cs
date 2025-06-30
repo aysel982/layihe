@@ -2,8 +2,8 @@
 
 namespace OnlineShopping.Services.Interfaces
 {
-    public interface ILayoutService
+    public interface IBasketService
     {
-        Task<Dictionary<string, string>> GetSettingsAsync();
+        Task<List<BasketItemVM>> GetBasketAsync();
     }
 }

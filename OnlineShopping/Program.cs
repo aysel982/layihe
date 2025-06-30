@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using OnlineShopping.DAL;
 using OnlineShopping.Models;
 using OnlineShopping.Services;
+using OnlineShopping.Services.Implementations;
 using OnlineShopping.Services.Interfaces;
 
 
@@ -28,6 +29,8 @@ namespace OnlineShopping
             });
 
             builder.Services.AddScoped<ILayoutService, LayoutService>();
+            builder.Services.AddScoped<IBasketService, BasketService>();
+
             var app = builder.Build();
             app.UseAuthentication();
             app.UseAuthorization();

@@ -6,6 +6,7 @@ using Newtonsoft.Json;
 using NuGet.Protocol;
 using OnlineShopping.DAL;
 using OnlineShopping.Models;
+using OnlineShopping.Services.Interfaces;
 using OnlineShopping.ViewModels;
 using System.Net;
 using System.Security.Claims;
@@ -17,61 +18,17 @@ namespace OnlineShopping.Controllers
     {
         private readonly AppDbContext _context;
         private readonly UserManager<AppUser> _userManager;
+        private readonly IBasketService _basketService;
 
-        public BasketController(AppDbContext context,UserManager<AppUser>userManager)
+        public BasketController(AppDbContext context,UserManager<AppUser>userManager,IBasketService basketService)
         {
             _context = context;
             _userManager = userManager;
+            _basketService = basketService;
         }
         public async Task<IActionResult> Index()
         {
-            List<BasketItemVM> basketVM = new();
-            if (User.Identity.IsAuthenticated)
-            {
-                basketVM = await _context.BasketItems
-                    .Where(bi=>bi.AppUserId == User.FindFirstValue(ClaimTypes.NameIdentifier))
-                    .Select(bi => new BasketItemVM
-                    {
-                        Count = bi.Count,
-                        Image = bi.Product.Image,
-                        Name = bi.Product.Name,
-                        Price = bi.Product.Price,
-                        Subtotal = bi.Count * bi.Product.Price,
-                        Id=bi.ProductId
-                    }).ToListAsync();
-            }
-            else
-            {
-                List<BasketCookieItemVM> cookiesVM;
-                string cookie = Request.Cookies["basket"];
-
-
-                if (cookie is null)
-                {
-                    return View(basketVM);
-                }
-
-                cookiesVM = JsonConvert.DeserializeObject<List<BasketCookieItemVM>>(cookie);
-                foreach (BasketCookieItemVM item in cookiesVM)
-                {
-                    Product product = await _context.Products.FirstOrDefaultAsync(p => p.Id == item.Id);
-                    if (product is not null)
-                    {
-                        basketVM.Add(new BasketItemVM
-                        {
-                            Id = product.Id,
-                            Name = product.Name,
-                            Price = product.Price,
-                            Image = product.Image,
-                            Count = item.Count,
-                            Subtotal = item.Count * product.Price
-
-
-                        });
-                    }
-                }
-            }
-            return View(basketVM);
+            return View(await _basketService.GetBasketAsync());
         }
         public async Task<IActionResult> AddBasket(int? id)
         {

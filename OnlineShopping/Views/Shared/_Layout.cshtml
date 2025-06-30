@@ -1,9 +1,11 @@
 ﻿@using OnlineShopping.Services
 @using OnlineShopping.Services.Interfaces
 @inject ILayoutService service;
+@inject IBasketService _basketService;
+
 @{
     Dictionary<string, string> settings = await service.GetSettingsAsync();
-    List<BasketItemVM> basketItems = await service.GetBasketAsync();
+    List<BasketItemVM> basketItems = await _basketService.GetBasketAsync();
 
 }
 <!DOCTYPE html>
