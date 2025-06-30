@@ -22,6 +22,8 @@ namespace OnlineShopping
                 opt.Password.RequiredLength = 8;
                 opt.Lockout.MaxFailedAccessAttempts = 5;
                 opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(10);
+                opt.User.RequireUniqueEmail = true;
+                opt.SignIn.RequireConfirmedEmail = true;
             }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
             builder.Services.AddDbContext<AppDbContext>(opt => {
@@ -30,6 +32,7 @@ namespace OnlineShopping
 
             builder.Services.AddScoped<ILayoutService, LayoutService>();
             builder.Services.AddScoped<IBasketService, BasketService>();
+            builder.Services.AddScoped<EmailService>();
 
             var app = builder.Build();
             app.UseAuthentication();

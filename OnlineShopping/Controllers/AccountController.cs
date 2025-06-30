@@ -18,7 +18,8 @@ namespace OnlineShopping.Controllers
 
         public AccountController(UserManager<AppUser>userManager, 
             SignInManager<AppUser>signInManager,
-            RoleManager<IdentityRole>roleManager)
+            RoleManager<IdentityRole>roleManager,
+            IEmail)
         {
             _userManager = userManager;
             _signInManager = signInManager;
@@ -50,15 +51,26 @@ namespace OnlineShopping.Controllers
                 return View();
             }
             await _userManager.AddToRoleAsync(user, UserRole.Member.ToString());
-            await _signInManager.SignInAsync(user, false);
+
+            var token = await _userManager.GenerateEmailConfirmationTokenAsync(user);
+            var confirmationLink=Url.Action(nameof(ComfirmEmail),"Account",new {token,Email=user.Email},Request.Scheme);
+            //await _signInManager.SignInAsync(user, false);
+
 
 
             return RedirectToAction(nameof(HomeController.Index),"Home");
         }
+        public async Task<IActionResult> ComfirmEmail(string token,string email)
+        {
+            return View();
+        }
+
         public IActionResult Login()
         {
             return View();
         }
+
+
         [HttpPost]
         public async Task<IActionResult> Login(LoginVM loginVM,string? returnUrl)
         {
@@ -88,6 +100,8 @@ namespace OnlineShopping.Controllers
             await _signInManager.SignOutAsync();
             return RedirectToAction("index", "home");
         }
+
+
         public async Task<IActionResult> CreateRole()
         {
             foreach (UserRole role in Enum.GetValues(typeof(UserRole)))

@@ -41,11 +41,22 @@ namespace OnlineShopping.Controllers
             }
             ShopVM shopVM = new ShopVM
             {
-                Products = query.ToList(),
-                Categories = await _context.Categories.Include(c=>c.Products).ToListAsync(),
-                Search=search,
-                CategoryId=categoryId,
-                Key=key
+                Products = await query.Select(p => new GetProductVM
+                {
+                    Id = p.Id,
+                    Name = p.Name,
+                    Price = p.Price,
+                    Image = p.Image
+                }).ToListAsync(),
+                Categories = await _context.Categories.Select(c=>new GetCategoryVM
+                {    
+                    Id=c.Id,
+                    Name=c.Name,
+                    Count=c.Products.Count
+                }).ToListAsync(),
+                Search = search,
+                CategoryId = categoryId,
+                Key = key
             };
             return View(shopVM);
         }
