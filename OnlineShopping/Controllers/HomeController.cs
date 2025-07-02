@@ -10,7 +10,6 @@ namespace OnlineShopping.Controllers
     public class HomeController : Controller
     {
         private readonly AppDbContext _context;
-        private readonly EmailService _emailService;
 
         public HomeController(AppDbContext context)
         {

@@ -30,6 +30,7 @@ namespace OnlineShopping.Controllers
         {
             return View(await _basketService.GetBasketAsync());
         }
+        [HttpGet]
         public async Task<IActionResult> AddBasket(int? id)
         {
             if (id is null || id <= 0) return BadRequest();

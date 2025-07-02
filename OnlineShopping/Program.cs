@@ -32,8 +32,8 @@ namespace OnlineShopping
 
             builder.Services.AddScoped<ILayoutService, LayoutService>();
             builder.Services.AddScoped<IBasketService, BasketService>();
-            builder.Services.AddScoped<IEmailService,EmailService>();
-
+            builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("MailSettings"));
+            builder.Services.AddScoped<IMailService, MailService>();
             var app = builder.Build();
             app.UseAuthentication();
             app.UseAuthorization();

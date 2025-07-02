@@ -20,56 +20,27 @@
 		<div class="row">
 			<div class="col-lg-6">
 				<h3>Billing Details</h3>
-				<form action="#" class="contact-form-validated contact-one__form">
+				<form method="post" action="#" class="contact-form-validated contact-one__form">
 					<div class="row">
-						<div class="col-md-12">
+						@* <div class="col-md-12">
 							<select class="selectpicker">
 								<option value="">Select a Country</option>
 								<option value="">Select a Country</option>
 								<option value="">Select a Country</option>
 								<option value="">Select a Country</option>
 							</select>
-						</div><!-- /.col-md-12 -->
-						<div class="col-md-6">
-							<input type="text" name="fname" placeholder="First Name">
-						</div><!-- /.col-md-6 -->
-						<div class="col-md-6">
-							<input type="text" name="lname" placeholder="Last Name">
-						</div><!-- /.col-md-6 -->
+						</div><!-- /.col-md-12 --> *@
+						
 						<div class="col-md-12">
-							<input type="text" name="company" placeholder="Company">
-						</div><!-- /.col-md-6 -->
-						<div class="col-md-12">
-							<input type="text" name="address" placeholder="Address">
+							<input asp-for="Adress" name="Address" placeholder="Address">
+							<span class="test-danger" asp-validation-for="Adress"></span>
+
 						</div><!-- /.col-md-12 -->
-						<div class="col-md-12">
-							<input type="text" name="appartment" placeholder="Appartment, Unit, etc. (optional)">
-						</div><!-- /.col-md-12 -->
-						<div class="col-md-12">
-							<input type="text" name="town" placeholder="Town / City">
-						</div><!-- /.col-md-12 -->
-						<div class="col-md-6">
-							<input type="text" placeholder="State" name="state">
-						</div><!-- /.col-md-6 -->
-						<div class="col-md-6">
-							<input type="text" placeholder="Zip Code" name="zip">
-						</div><!-- /.col-md-6 -->
-						<div class="col-md-6">
-							<input type="email" placeholder="Email Address" name="email">
-						</div><!-- /.col-md-6 -->
-						<div class="col-md-6">
-							<input type="text" placeholder="Phone" name="phone">
-						</div><!-- /.col-md-6 -->
-						<div class="col-md-12">
-							<div class="form-group">
-								<input type="checkbox" id="createAccount">
-								<label for="createAccount">Create an Account?</label>
-							</div><!-- /.form-group -->
-						</div><!-- /.col-md-12 -->
+		
 					</div><!-- /.row -->
 				</form>
 				<div class="text-right">
-					<a href="checkout.html" class="thm-btn">Place Your Order</a>
+					<a asp-action="PlaceOrder" asp-controller="Checkout" class="thm-btn">Place Your Order</a>
 				</div><!-- /.text-right -->
 			</div><!-- /.col-lg-6 -->
 		</div><!-- /.row -->

@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Order Success</title>
+    <style>
+        body {
+          font-family: Arial, sans-serif;
+          text-align: center;
+          padding: 50px;
+          background-color: #ffffff;
+        }
+
+        .checkmark {
+          width: 100px;
+          height: 100px;
+          margin: 0 auto 20px;
+          background-color: #4CAF50;
+          border-radius: 50%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        .checkmark::before {
+          content: "✓";
+          color: white;
+          font-size: 50px;
+        }
+
+        h2 {
+          color: #4CAF50;
+        }
+
+        p {
+          color: #555;
+          font-size: 16px;
+        }
+
+        .btn {
+          display: inline-block;
+          margin: 15px 10px;
+          padding: 12px 24px;
+          border: none;
+          border-radius: 5px;
+          text-decoration: none;
+          font-size: 16px;
+          cursor: pointer;
+        }
+
+        .btn-primary {
+          background-color: #00b3b3;
+          color: white;
+        }
+
+        .btn-secondary {
+          border: 2px solid #00b3b3;
+          color: #00b3b3;
+          background-color: white;
+        }
+
+        .btn:hover {
+          opacity: 0.85;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="checkmark"></div>
+
+    <h2>Order Placed Successfully</h2>
+    <p>Our pharmacist will call you to confirm the<br>medicines from your prescription</p>
+
+    <div>
+        <a href="#" class="btn btn-primary">View Orders</a>
+        <a asp-action="index" asp-controller="shop" class="btn btn-secondary">Continue Shopping</a>
+    </div>
+
+</body>
+</html>

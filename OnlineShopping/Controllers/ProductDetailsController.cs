@@ -24,7 +24,7 @@ namespace OnlineShopping.Controllers
             {
                 return BadRequest();
             }
-            Product? product = _context.Products.Include(p=>p.Image).FirstOrDefault(p => p.Id == p.Id);
+            Product? product = _context.Products.FirstOrDefault(p => p.Id == id);
             if (product is null) return NotFound();
 
             ProductDetailVM detailVM = new ProductDetailVM

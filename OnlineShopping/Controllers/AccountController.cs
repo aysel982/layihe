@@ -5,8 +5,8 @@ using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages;
 using NuGet.Common;
 using OnlineShopping.Models;
+using OnlineShopping.Services.Implementations;
 using OnlineShopping.Services.Interfaces;
-using OnlineShopping.Utilities;
 using OnlineShopping.Utilities;
 using OnlineShopping.ViewModels;
 using System.Threading.Tasks;
@@ -18,17 +18,17 @@ namespace OnlineShopping.Controllers
         private readonly UserManager<AppUser> _userManager;
         private readonly SignInManager<AppUser> _signInManager;
         private readonly RoleManager<IdentityRole> _roleManager;
-        private readonly IEmailService _emailService;
+        private readonly IMailService _mailService;
 
-        public AccountController(UserManager<AppUser>userManager, 
-            SignInManager<AppUser>signInManager,
-            RoleManager<IdentityRole>roleManager,
-            IEmailService emailService)
+        public AccountController(UserManager<AppUser> userManager,
+            SignInManager<AppUser> signInManager,
+            RoleManager<IdentityRole> roleManager,
+            IMailService mailService)
         {
             _userManager = userManager;
             _signInManager = signInManager;
             _roleManager = roleManager;
-            _emailService = emailService;
+           _mailService = mailService;
         }
         public IActionResult Register()
         {
@@ -56,10 +56,10 @@ namespace OnlineShopping.Controllers
                 return View();
             }
             await _userManager.AddToRoleAsync(user, UserRole.Member.ToString());
+            await _mailService.SendMailAsync(new MailRequestVM { ToEmail = registerVM.Email, Subject = "ComfirmPassword", Body = $"<a href=''>ComfirmPassword</a>" });
 
             var token = await _userManager.GenerateEmailConfirmationTokenAsync(user);
             var confirmationLink=Url.Action(nameof(ComfirmEmail),"Account",new {token,Email=user.Email},Request.Scheme);
-            await _emailService.SendMailAsync(user.Email, "Email Confirmation",confirmationLink);
             //await _signInManager.SignInAsync(user, false);
 
 
@@ -118,8 +118,7 @@ namespace OnlineShopping.Controllers
                 ModelState.AddModelError(string.Empty, "Username,Email or password is incorrect");
                 return View();
             }
-            if (returnUrl is null) return RedirectToAction("index","home");
-            return RedirectToAction(returnUrl);
+            return RedirectToAction("index", "home");
         }
         public async Task<IActionResult> Logout()
         {
@@ -153,11 +152,15 @@ namespace OnlineShopping.Controllers
         {
             if (!ModelState.IsValid) return View(forgotPasswordVM);
             var user = await _userManager.FindByEmailAsync(forgotPasswordVM.Email);
-            if (user is null) return View(forgotPasswordVM);
-            //https://localhost:7214/Account/ResetPassword/userId?token=resetToken
+            if (user is null) 
+           {
+                ModelState.AddModelError("Email", "Email not found");
+                return View(forgotPasswordVM);
+            }
             string token = await _userManager.GeneratePasswordResetTokenAsync(user);
-            string link = Url.Action("ResetPassword", "Account", new { userId = user.Id, Token = token }, HttpContext.Request.Scheme);
-            return Json(link);
+            string link = Url.Action("ResetPassword", "Account", new { userId = user.Id, token = token }, HttpContext.Request.Scheme);
+            await _mailService.SendMailAsync(new MailRequestVM { ToEmail = forgotPasswordVM.Email, Subject = "ResetPassword", Body = $"<a href='{link}'>ResetPassword</a>"});
+            return RedirectToAction(nameof(Login));
         }
 
         public async Task<IActionResult> ResetPassword(string userId,string token)

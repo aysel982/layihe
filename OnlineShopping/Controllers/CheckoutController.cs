@@ -12,12 +12,10 @@ namespace OnlineShopping.Controllers
     public class CheckoutController : Controller
     {
         private readonly AppDbContext _context;
-        private readonly IEmailService _emailService;
 
-        public CheckoutController(AppDbContext context,IEmailService emailService)
+        public CheckoutController(AppDbContext context)
         {
             _context = context;
-            _emailService = emailService;
         }
         public IActionResult Index()
         {
@@ -81,9 +79,14 @@ namespace OnlineShopping.Controllers
             _context.BasketItems.RemoveRange(basketItems);
             await _context.SaveChangesAsync();
 
-            //await _emailService.SendMailAsync(user.Email, "your order", body, true);
+           
 
             return RedirectToAction("Index", "Home");
+        }
+
+        public IActionResult PlaceOrder()
+        {
+            return View();
         }
     }
 }
