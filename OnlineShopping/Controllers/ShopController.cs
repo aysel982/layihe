@@ -60,5 +60,21 @@ namespace OnlineShopping.Controllers
             };
             return View(shopVM);
         }
+        public IActionResult Detail(int? id)
+        {
+            if (id is null || id <= 0)
+            {
+                return BadRequest();
+            }
+            Product? product = _context.Products.FirstOrDefault(p => p.Id == id);
+            if (product is null) return NotFound();
+
+            ProductDetailVM detailVM = new ProductDetailVM
+            {
+                Product = product,
+                RelatedProducts = _context.Products.Include(c => c.Category).Where(p => p.CategoryId == product.CategoryId && p.Id != product.Id).ToList()
+            };
+            return View(detailVM);
+        }
     }
 }

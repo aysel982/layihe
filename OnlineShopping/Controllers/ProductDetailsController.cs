@@ -14,22 +14,16 @@ namespace OnlineShopping.Controllers
         {
             _context = context;
         }
-        public IActionResult Index(int? id)
+        public async Task<IActionResult> Index()
         {
-
-            if (id is null || id <= 0)
+            HomeVM vm = new HomeVM
             {
-                return BadRequest();
-            }
-            Product? product = _context.Products.FirstOrDefault(p => p.Id == id);
-            if (product is null) return NotFound();
-
-            ProductDetailVM detailVM = new ProductDetailVM
-            {
-                Product = product,
+                Products = await _context.Products.Include(p => p.Category).ToListAsync(),
+                Categories = await _context.Categories.ToListAsync()
             };
-            return View(detailVM);
+            return View(vm);
         }
+       
        
     }
 }
