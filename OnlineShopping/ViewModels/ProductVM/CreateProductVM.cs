@@ -13,8 +13,11 @@ namespace OnlineShopping.ViewModels
         //public string Image { get; set; }
         [Required]
         public int? CategoryId { get; set; }
+        public List<int>? TagIds { get; set; }
+        public int TagId { get; set; }
         public IFormFile ProductPhoto { get; set; }
         public List<Category>? Categories { get; set; }
+        public List<Tag>? Tags { get; set; }
 
     }
 }

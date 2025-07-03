@@ -66,7 +66,7 @@ namespace OnlineShopping.Controllers
             {
                 return BadRequest();
             }
-            Product? product = _context.Products.FirstOrDefault(p => p.Id == id);
+            Product? product = _context.Products.Include(p=>p.ProductTags).ThenInclude(pt=>pt.Tag).FirstOrDefault(p => p.Id == id);
             if (product is null) return NotFound();
 
             ProductDetailVM detailVM = new ProductDetailVM

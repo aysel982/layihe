@@ -13,6 +13,8 @@ namespace OnlineShopping.DAL
         public DbSet<BasketItem> BasketItems { get; set; }
         public DbSet<OrderItem> OrderItems { get; set; }
         public DbSet<Order> Orders { get; set; }
+        public DbSet<Tag> Tags { get; set; }
+        public DbSet<ProductTag> ProductTags { get; set; }
 
     }
 

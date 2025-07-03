@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace OnlineShopping.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = "Admin")]
+    //[Authorize(Roles = "Admin")]
     public class ProductController : Controller
     {
         private readonly AppDbContext _context;
@@ -39,7 +39,8 @@ namespace OnlineShopping.Areas.Admin.Controllers
         {
             CreateProductVM productVM = new CreateProductVM
             {
-                Categories = await _context.Categories.ToListAsync()
+                Categories = await _context.Categories.ToListAsync(),
+                Tags=await _context.Tags.ToListAsync()
             };
             return View(productVM);
         }
@@ -47,6 +48,8 @@ namespace OnlineShopping.Areas.Admin.Controllers
         public async Task<IActionResult> Create(CreateProductVM productVM)
         {
             productVM.Categories = await _context.Categories.ToListAsync();
+            productVM.Tags = await _context.Tags.ToListAsync();
+
             if (!ModelState.IsValid)
             {
                 return View(productVM);
@@ -57,6 +60,24 @@ namespace OnlineShopping.Areas.Admin.Controllers
                 ModelState.AddModelError(nameof(CreateProductVM.CategoryId), "category doesn't exists");
                 return View(productVM);
             }
+
+            if(productVM.TagIds is null)
+            {
+                productVM.TagIds = new();
+            }
+
+            bool tagResult = productVM.TagIds.Any(tagId => !productVM.Tags.Exists(t => t.Id == tagId));
+            if(tagResult)
+            {
+                ModelState.AddModelError(nameof(CreateProductVM), "Tag Id is wrong");
+                return View(productVM);
+            }
+
+
+
+
+
+
 
             if (!productVM.ProductPhoto.ValidateType("image/"))
             {
@@ -83,8 +104,11 @@ namespace OnlineShopping.Areas.Admin.Controllers
                 Title = productVM.Title,
                 Subtitle = productVM.Subtitle,
                 CategoryId = productVM.CategoryId.Value,
-                Image = fileName
+                Image = fileName,
+                ProductTags = productVM.TagIds.Select(tId => new ProductTag { TagId = tId }).ToList()
             };
+
+
             await _context.Products.AddAsync(product);
             await _context.SaveChangesAsync();
 
@@ -94,7 +118,7 @@ namespace OnlineShopping.Areas.Admin.Controllers
         public async Task<IActionResult> Update(int? id)
         {
             if (id is null || id <= 0) return BadRequest();
-            Product? product = await _context.Products.FirstOrDefaultAsync(p => p.Id == id);
+            Product? product = await _context.Products.Include(p=>p.ProductTags).FirstOrDefaultAsync(p => p.Id == id);
             if (product is null) return NotFound();
             UpdateProductVM productVM = new UpdateProductVM
             {
@@ -104,7 +128,9 @@ namespace OnlineShopping.Areas.Admin.Controllers
                 Categories = await _context.Categories.ToListAsync(),
                 CategoryId = product.CategoryId,
                 Price = product.Price,
-                PrimaryImage = product.Image
+                PrimaryImage = product.Image,
+                TagIds=product.ProductTags.Select(pt=>pt.TagId).ToList(),
+                Tags = await _context.Tags.ToListAsync()
             };
             return View(productVM);
         }
@@ -112,12 +138,14 @@ namespace OnlineShopping.Areas.Admin.Controllers
         public async Task<IActionResult> Update(int? id, UpdateProductVM productVM)
         {
             productVM.Categories =  _context.Categories.ToList();
+            productVM.Tags = _context.Tags.ToList();
+
 
             {
                 if (!ModelState.IsValid) return View(productVM);
                 
             }
-            Product? existed = await _context.Products.FirstOrDefaultAsync(p => p.Id == id);
+            Product? existed = await _context.Products.Include(p => p.ProductTags).FirstOrDefaultAsync(p => p.Id == id);
             if (existed is null) return NotFound();
 
             if (productVM.ProductPhoto is not null)
@@ -136,19 +164,39 @@ namespace OnlineShopping.Areas.Admin.Controllers
                 productVM.PrimaryImage.DeleteFile(_env.WebRootPath, "assets", "images", "products");
                 existed.Image = fileName;
             }
-            bool result = await _context.Categories.AnyAsync(c => c.Id == productVM.CategoryId);
+            bool result = productVM.Categories.Any(c => c.Id == productVM.CategoryId);
             if (!result)
             {
-                ModelState.AddModelError(nameof(CreateProductVM.Name), "Already exists");
+                ModelState.AddModelError(nameof(UpdateProductVM.Name), "Category doesn't exists");
                 return View(productVM);
             }
+            if(productVM.TagIds is null)
+            {
+                productVM.TagIds = new();
+            }
+            productVM.TagIds.Distinct().ToList();
+            bool tagResult =productVM.TagIds.Any(tId => !productVM.Tags.Exists(t=>t.Id==tId));
+            if (tagResult)
+            {
+                ModelState.AddModelError(nameof(UpdateProductVM.TagIds), "Tag doesn't exists");
+                return View(productVM);
+            }
+
             bool Nameresult = await _context.Categories.AnyAsync(p => p.Name == productVM.Name&&p.Id!=id);
             if (Nameresult)
             {
-                ModelState.AddModelError(nameof(CreateProductVM.Name), "Already exists");
+                ModelState.AddModelError(nameof(UpdateProductVM.Name), "Already exists");
                 return View(productVM);
             }
-            
+
+            _context.ProductTags.RemoveRange(existed.ProductTags.Where(pt => !productVM.TagIds.Exists(tId => tId == pt.TagId)));
+            _context.ProductTags.AddRange(productVM.TagIds.Where(tId => !existed.ProductTags.Exists(pt => pt.TagId == tId)).Select(tId => new ProductTag
+            {
+                TagId = tId,
+                ProductId = existed.Id
+            }));
+
+
 
             existed.Name = productVM.Name;
             existed.Title = productVM.Title;

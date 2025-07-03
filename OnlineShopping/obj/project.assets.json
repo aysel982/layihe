@@ -7917,11 +7917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\layihe\\OnlineShopping\\OnlineShopping.csproj",
+      "projectUniqueName": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\Project\\layihe\\OnlineShopping\\OnlineShopping.csproj",
       "projectName": "OnlineShopping",
-      "projectPath": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\layihe\\OnlineShopping\\OnlineShopping.csproj",
+      "projectPath": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\Project\\layihe\\OnlineShopping\\OnlineShopping.csproj",
       "packagesPath": "C:\\Users\\AYSEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\layihe\\OnlineShopping\\obj\\",
+      "outputPath": "C:\\Users\\AYSEL\\OneDrive\\Masaüstü\\Project\\layihe\\OnlineShopping\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

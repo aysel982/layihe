@@ -138,6 +138,7 @@ wwwroot\assets\images\main-slider\main-slider-1-2.jpg
 wwwroot\assets\images\main-slider\main-slider-2-1.jpg
 wwwroot\assets\images\main-slider\main-slider-2-2.jpg
 wwwroot\assets\images\products\13ad71bc-aa1e-45e2-8022-dd1bc101a675Milk.jpeg
+wwwroot\assets\images\products\2162fcc9-a03f-4894-a5e6-791cdc442f79Onion.jpeg
 wwwroot\assets\images\products\43e036b0-b0cf-412e-9fdb-44b69d09d47fMilk.jpeg
 wwwroot\assets\images\products\515220b4-1e00-4bd1-a650-f8f681c3b721Milk.jpeg
 wwwroot\assets\images\products\apple.jpeg
@@ -151,7 +152,6 @@ wwwroot\assets\images\products\cart-1-3.jpg
 wwwroot\assets\images\products\Cheese.jpeg
 wwwroot\assets\images\products\Cherry.jpeg
 wwwroot\assets\images\products\Chicken.jpeg
-wwwroot\assets\images\products\Onion.jpeg
 wwwroot\assets\images\products\paypal-1-1.jpg
 wwwroot\assets\images\products\product-1-1.jpg
 wwwroot\assets\images\products\product-1-2.jpg

@@ -1,6 +1,8 @@
 ﻿namespace OnlineShopping.Models
 {
-    public class Tag
+    public class Tag:BaseEntity
     {
+        public string Name { get; set; }
+        public List<ProductTag> ProductTags { get; set; }
     }
 }

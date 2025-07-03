@@ -29,50 +29,54 @@
             </div>
 
 
-            
-            
-                <div class="col-xl-6 col-lg-6">
-                    <div class="product_detail_content">
+
+
+            <div class="col-xl-6 col-lg-6">
+                <div class="product_detail_content">
                     <h2>@Model.Product.Name</h2>
-                        <div class="product_detail_review_box">
-                            <div class="product_detail_price_box">
+                    <div class="product_detail_review_box">
+                        <div class="product_detail_price_box">
                             <p>$@Model.Product.Price</p>
-                            </div>
-                            <div class="product_detail_review">
-                                <a href="#"><i class="fa fa-star"></i></a>
-                                <a href="#"><i class="fa fa-star"></i></a>
-                                <a href="#"><i class="fa fa-star"></i></a>
-                                <a href="#"><i class="fa fa-star"></i></a>
-                                <a href="#" class="deactive"><i class="fa fa-star"></i></a>
-                                <span>2 Customer Reviews</span>
-                            </div>
                         </div>
-                        <div class="product_detail_text">
-                            <p>
+                        <div class="product_detail_review">
+                            <a href="#"><i class="fa fa-star"></i></a>
+                            <a href="#"><i class="fa fa-star"></i></a>
+                            <a href="#"><i class="fa fa-star"></i></a>
+                            <a href="#"><i class="fa fa-star"></i></a>
+                            <a href="#" class="deactive"><i class="fa fa-star"></i></a>
+                            <span>2 Customer Reviews</span>
+                        </div>
+                    </div>
+                    <div class="product_detail_text">
+                        <p>
                             @Model.Product.Subtitle
-                            </p>
+                        </p>
+                    </div>
+                    <ul class="list-unstyled product_detail_address">
+                        <li>REF. 4231/406</li>
+                        <li>Available in store</li>
+                    </ul>
+                    <div class="product-quantity-box">
+                        <div class="quantity-box">
+                            <button type="button" class="sub">-</button>
+                            <input type="number" id="2" value="1" />
+                            <button type="button" class="add">+</button>
                         </div>
-                        <ul class="list-unstyled product_detail_address">
-                            <li>REF. 4231/406</li>
-                            <li>Available in store</li>
-                        </ul>
-                        <div class="product-quantity-box">
-                            <div class="quantity-box">
-                                <button type="button" class="sub">-</button>
-                                <input type="number" id="2" value="1" />
-                                <button type="button" class="add">+</button>
-                            </div>
-                            <div class="addto-cart-box">
-                                <button class="thm-btn" type="submit">Add to Cart</button>
-                            </div>
-                            <div class="wishlist_btn">
-                                <a href="#" class="thm-btn">Add to Wishlist</a>
-                            </div>
+                        <div class="addto-cart-box">
+                            <a asp-action="addBasket" asp-controller="Basket" asp-route-id="@Model.Product.Id" class="thm-btn">Add Basket</a>
                         </div>
-                        <ul class="list-unstyled category_tag_list">
-                            <li><span>Category:</span>  @Model.Product.Category </li>
-                            <li><span>Tags:</span> Vegetables, Fruits</li>
+                    </div>
+                    <ul class="list-unstyled category_tag_list">
+                        <li><span>Category:</span>  @Model.Product.Category.Name </li>
+                        <span class="title">Tags:</span>
+                        <ul>
+                            @foreach (ProductTag pTag in Model.Product.ProductTags)
+                            {
+                                <li> @pTag.Tag.Name</li>
+                            }
                         </ul>
+                        
+                    </ul>
                         <div class="product_detail_share_box">
                             <div class="share_box_title">
                                 <h2>Share with friends</h2>
@@ -271,9 +275,8 @@
                                     <span class="product-card__two-sale">sale</span>
                                     <img src="~/assets/images/products/@product.Image" alt="">
                                     <div class="product-card__two-image-content">
-                                        <a href="#"><i class="organik-icon-visibility"></i></a>
-                                        <a href="#"><i class="organik-icon-heart"></i></a>
-                                        <a href="cart.html"><i class="organik-icon-shopping-cart"></i></a>
+                                            <a asp-action="detail" asp-controller="shop" asp-route-id="@product.Id" ><i class="organik-icon-visibility"></i></a>
+                                            <a asp-action="addBasket" asp-controller="Basket" asp-route-id="@product.Id"><i class="organik-icon-shopping-cart"></i></a>
                                     </div><!-- /.product-card__two-image-content -->
                                 </div><!-- /.product-card__two-image -->
                                 <div class="product-card__two-content">
