@@ -14,18 +14,10 @@ namespace OnlineShopping.Controllers
         {
             _context = context;
         }
-        public IActionResult Index()
+        public IActionResult Index(int? id)
         {
-            //ProductDetailVM detailVM=new ProductDetailVM
-            //{
-            //    Product=
-            //};
-            //return View(detailVM);
-            return View();
-        }
-        public IActionResult Detail(int? id)
-        {
-            if(id is null|| id <= 0)
+
+            if (id is null || id <= 0)
             {
                 return BadRequest();
             }
@@ -38,5 +30,6 @@ namespace OnlineShopping.Controllers
             };
             return View(detailVM);
         }
+       
     }
 }
