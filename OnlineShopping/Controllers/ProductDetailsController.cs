@@ -16,6 +16,11 @@ namespace OnlineShopping.Controllers
         }
         public IActionResult Index()
         {
+            //ProductDetailVM detailVM=new ProductDetailVM
+            //{
+            //    Product=
+            //};
+            //return View(detailVM);
             return View();
         }
         public IActionResult Detail(int? id)
@@ -30,7 +35,6 @@ namespace OnlineShopping.Controllers
             ProductDetailVM detailVM = new ProductDetailVM
             {
                 Product = product,
-                RelatedProducts = _context.Products.Where(p => p.CategoryId == product.CategoryId && p.Id != product.Id).ToList()
             };
             return View(detailVM);
         }

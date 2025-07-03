@@ -29,61 +29,64 @@
             </div>
 
 
-
-            <div class="col-xl-6 col-lg-6">
-                <div class="product_detail_content">
-                    <h2>@* @Model.Product.Name *@</h2>
-                    <div class="product_detail_review_box">
-                        <div class="product_detail_price_box">
-                            <p>$@* @Model.Product.Price *@</p>
+            @foreach(Product product in Model.Products)
+            {
+                <div class="col-xl-6 col-lg-6">
+                    <div class="product_detail_content">
+                        <h2>@product.Name</h2>
+                        <div class="product_detail_review_box">
+                            <div class="product_detail_price_box">
+                                <p>$@product.Price</p>
+                            </div>
+                            <div class="product_detail_review">
+                                <a href="#"><i class="fa fa-star"></i></a>
+                                <a href="#"><i class="fa fa-star"></i></a>
+                                <a href="#"><i class="fa fa-star"></i></a>
+                                <a href="#"><i class="fa fa-star"></i></a>
+                                <a href="#" class="deactive"><i class="fa fa-star"></i></a>
+                                <span>2 Customer Reviews</span>
+                            </div>
                         </div>
-                        <div class="product_detail_review">
-                            <a href="#"><i class="fa fa-star"></i></a>
-                            <a href="#"><i class="fa fa-star"></i></a>
-                            <a href="#"><i class="fa fa-star"></i></a>
-                            <a href="#"><i class="fa fa-star"></i></a>
-                            <a href="#" class="deactive"><i class="fa fa-star"></i></a>
-                            <span>2 Customer Reviews</span>
+                        <div class="product_detail_text">
+                            <p>
+                                @product.Subtitle
+                            </p>
                         </div>
-                    </div>
-                    <div class="product_detail_text">
-                        <p>
-                            @* @Model.Product.Subtitle *@
-                        </p>
-                    </div>
-                    <ul class="list-unstyled product_detail_address">
-                        <li>REF. 4231/406</li>
-                        <li>Available in store</li>
-                    </ul>
-                    <div class="product-quantity-box">
-                        <div class="quantity-box">
-                            <button type="button" class="sub">-</button>
-                            <input type="number" id="2" value="1" />
-                            <button type="button" class="add">+</button>
+                        <ul class="list-unstyled product_detail_address">
+                            <li>REF. 4231/406</li>
+                            <li>Available in store</li>
+                        </ul>
+                        <div class="product-quantity-box">
+                            <div class="quantity-box">
+                                <button type="button" class="sub">-</button>
+                                <input type="number" id="2" value="1" />
+                                <button type="button" class="add">+</button>
+                            </div>
+                            <div class="addto-cart-box">
+                                <button class="thm-btn" type="submit">Add to Cart</button>
+                            </div>
+                            <div class="wishlist_btn">
+                                <a href="#" class="thm-btn">Add to Wishlist</a>
+                            </div>
                         </div>
-                        <div class="addto-cart-box">
-                            <button class="thm-btn" type="submit">Add to Cart</button>
-                        </div>
-                        <div class="wishlist_btn">
-                            <a href="#" class="thm-btn">Add to Wishlist</a>
-                        </div>
-                    </div>
-                    <ul class="list-unstyled category_tag_list">
-                        <li><span>Category:</span> @* @Model.Product.Category *@</li>
-                        <li><span>Tags:</span> Vegetables, Fruits</li>
-                    </ul>
-                    <div class="product_detail_share_box">
-                        <div class="share_box_title">
-                            <h2>Share with friends</h2>
-                        </div>
-                        <div class="share_box_social">
-                            <a href="#"><i class="fab fa-facebook-square"></i></a>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
+                        <ul class="list-unstyled category_tag_list">
+                            <li><span>Category:</span>  @product.Category </li>
+                            <li><span>Tags:</span> Vegetables, Fruits</li>
+                        </ul>
+                        <div class="product_detail_share_box">
+                            <div class="share_box_title">
+                                <h2>Share with friends</h2>
+                            </div>
+                            <div class="share_box_social">
+                                <a href="#"><i class="fab fa-facebook-square"></i></a>
+                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <a href="#"><i class="fab fa-instagram"></i></a>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
+
+            }
 
         </div>
         <div class="row">

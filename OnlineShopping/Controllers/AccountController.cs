@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages;
@@ -9,6 +10,7 @@ using OnlineShopping.Services.Implementations;
 using OnlineShopping.Services.Interfaces;
 using OnlineShopping.Utilities;
 using OnlineShopping.ViewModels;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace OnlineShopping.Controllers
@@ -56,27 +58,33 @@ namespace OnlineShopping.Controllers
                 return View();
             }
             await _userManager.AddToRoleAsync(user, UserRole.Member.ToString());
-            await _mailService.SendMailAsync(new MailRequestVM { ToEmail = registerVM.Email, Subject = "ComfirmPassword", Body = $"<a href=''>ComfirmPassword</a>" });
-
             var token = await _userManager.GenerateEmailConfirmationTokenAsync(user);
-            var confirmationLink=Url.Action(nameof(ComfirmEmail),"Account",new {token,Email=user.Email},Request.Scheme);
-            //await _signInManager.SignInAsync(user, false);
+            var encodedToken = WebEncoders.Base64UrlEncode(Encoding.UTF8.GetBytes(token));
+
+            await _mailService.SendMailAsync(new MailRequestVM { ToEmail = registerVM.Email, Subject = "ComfirmPassword", Body = $"<a href='https://localhost:7214/account/ConfirmEmail?email={user.Email}&token={encodedToken}'>ComfirmPassword</a>" });
 
 
+
+            var callbackUrl = Url.Action(
+                "ConfirmEmail",
+                "Account",
+                new { userId = user.Id, token = encodedToken },
+                protocol: Request.Scheme);
 
             return RedirectToAction(nameof(SuccesfullyRegisteredEmail),"Account");
         }
-        public async Task<IActionResult> ComfirmEmail(string token,string email)
+        public async Task<IActionResult> ConfirmEmail(string token,string email)
         {
             AppUser user = await _userManager.FindByEmailAsync(email);
             if (user is null) return NotFound();
-            var result = await _userManager.ConfirmEmailAsync(user, token);
+            user.EmailConfirmed = true;
+            var decodedToken = Encoding.UTF8.GetString(WebEncoders.Base64UrlDecode(token));
+            var result = await _userManager.ConfirmEmailAsync(user, decodedToken);
 
             if (!result.Succeeded)
             {
                 return BadRequest();
             }
-
             await _signInManager.SignInAsync(user, false);
             return View();
         }
